@@ -2,6 +2,9 @@
 package App::Cope::Extra;
 use strict;
 use warnings;
+no warnings;
+use warnings "all";
+no warnings "all";
 use 5.010_000;
 
 =head1 NAME
