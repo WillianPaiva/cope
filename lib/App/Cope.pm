@@ -1,7 +1,12 @@
 #!/usr/bin/env perl
 package App::Cope;
 use strict;
+
 use warnings;
+no warnings;
+use warnings "all";
+no warnings "all";
+
 use 5.010_000;
 use Carp;
 
